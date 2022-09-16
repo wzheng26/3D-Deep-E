@@ -11,6 +11,8 @@ Data:
     
   In vivo experimental results:  Reconstructed matrix (input),  Enhanced matrix  (output)  
   
+  Transducer parameters applied for image reconstruction
+  
   
 Scripts:
 
@@ -20,4 +22,6 @@ Scripts:
     
   Combining experimental noise and raw data  
   
-  Image reconstuction based on virtual point detection concept on axial-elevation plane  
+  Image reconstruction based on virtual point detection concept on axial-elevation plane  
+  
+  
