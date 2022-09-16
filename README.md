@@ -4,4 +4,8 @@ The shared files are including:
 
 
 Data:  
-  3D simulated vessel matrices applied for photoacoustic raw data simulation  
+  3D simulated vessel matrices applied for photoacoustic raw data simulation
+  Experimental noise collected from the photoacoustic imaging system using transducer with 2.25 MHz central frequency  
+  In vivo experimental results:  
+      Reconstructed matrix (input)  
+      Enhanced matrix  (output)  
