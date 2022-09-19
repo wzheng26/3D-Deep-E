@@ -11,7 +11,6 @@ Data:
     
   In vivo experimental results:  Reconstructed matrix (input),  Enhanced matrix  (output)  
   
-  Transducer parameters applied for image reconstruction
   
   
 Scripts:
